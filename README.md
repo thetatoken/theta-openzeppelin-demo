@@ -1,6 +1,8 @@
 
 ## OpenZeppelin test cases adapted for Theta
 
+This repository adapts the test cases for [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) for the Theta blockchain.
+
 ### Setup 
 
 ```
